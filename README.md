@@ -16,6 +16,7 @@ Underwater acoustic localization: When GPS is unavailable (underwater), the syst
 Alerts for authorities: Critical health or collision risk events are explicitly flagged for marine biologists or ship captains.
 
 Requirements:
+Python 3.11
 
 Modules used:
 
